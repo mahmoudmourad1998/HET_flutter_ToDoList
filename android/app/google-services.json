@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "743642094705",
+    "firebase_url": "https://flashchatapp-d49cc-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "flashchatapp-d49cc",
+    "storage_bucket": "flashchatapp-d49cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743642094705:android:07ba0645c4e5ed5fab4fd0",
+        "android_client_info": {
+          "package_name": "com.example.flutter03"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743642094705-81rt4hpvnd746so0h8k88892sv0ngogt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoq4I0jf7uT31-1vaF2m4kct8b9_XZp-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743642094705-81rt4hpvnd746so0h8k88892sv0ngogt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
